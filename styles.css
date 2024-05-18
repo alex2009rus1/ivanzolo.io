@@ -1,0 +1,10 @@
+#gameCanvas {
+    border: 2px solid #000000;
+}
+
+.player {
+    width: 50px; /* Ширина игрока */
+    height: 50px; /* Высота игрока */
+    background-image: url('https://avatars.mds.yandex.net/i?id=02207369fb8d388bfc8e7cb46f2f535a8fc1683c-9853580-images-thumbs&n=13'); /* Замените 'URL_ИЗОБРАЖЕНИЯ' на ссылку на изображение из интернета */
+    background-size: cover; /* Растягиваем изображение, чтобы оно полностью покрыло фон игрока */
+}
